@@ -1,4 +1,21 @@
+.title {
+  text-align: center;
+  margin-bottom: 2rem;
+}
 .photo{
   border-radius: 15px;
  border: 3px solid chocolate  ;
+}
+.underline {
+  width: 5rem;
+  height: 0.3rem;
+  background: gold;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1,h2,h3,h4 {
+  text-transform: capitalize;
+  line-height: 1.25;
+  margin-bottom: 0.75rem;
+  font-family: sans-serif;
 }
